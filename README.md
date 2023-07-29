@@ -1,0 +1,2 @@
+# Notes Golang
+# <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </a> ce repo contient quelques notes que j'ai pris lors de l'apprentissage de mon apprentissage de Go</p>
